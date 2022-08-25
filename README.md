@@ -1,9 +1,9 @@
 # Calender
 
-This is a C++ program on calender I made while learning to code. The idea popped in my mind when I saw that the operating system actually limits the maximum and minimum year of the calender :)
-The main aim of this project is to allow a user to easily view the calendar in detail.
+This is a C++ program on calender I made while learning to code. The idea popped in my mind when I saw that the operating system actually limits the maximum and minimum year in the calender :)
+The main aim of this project is to allow a user to get the calender of any year.
 
-![Calender Capture](https://user-images.githubusercontent.com/98907729/173186410-b60ac993-cbbe-48fe-9839-9807c0e1b89e.png)
+![](Calender_Capture.png)
 
 # Features
 
