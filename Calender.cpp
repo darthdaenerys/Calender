@@ -151,7 +151,7 @@ string printCalender(string startday,int year)
     }
     return calender;
 }
-void solve()
+void testcase()
 {
     cout<<"Enter the year: ";
     int year;
@@ -163,10 +163,12 @@ void solve()
 int main()
 {
     int t;
+    cout<<"Enter number of test cases: ";
     cin>>t;
-    while(t--)
+    for(int i=1;i<=t;i++)
     {
-        solve();
+        cout<<"Test case #"<<i<<'\n';
+        testcase();
         cout<<'\n';
     }
 }
